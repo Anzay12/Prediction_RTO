@@ -6,7 +6,7 @@ Our advanced machine learning analysis successfully developed a robust RTO (Retu
 
 ---
 
-## 1. Model Performance Results
+## 1. Model Performance Result
 
 ### **🏆 Best Model: Gradient Boosting**
 
